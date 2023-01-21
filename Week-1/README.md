@@ -77,7 +77,10 @@ Rendering Tree
 
 Rendering Tree will merge DOM Tree and CSSOM Tree which will go to layout. layout positions all  the components like height, width position etc. after this it will go to painting this will  give color to the layout .
 
-Rendering Tree => Layout => Paint =>
+Rendering Tree => Layout => Paint 
+
+![image](https://user-images.githubusercontent.com/42275772/213845186-2fe7da74-f386-4b4b-be14-b21fd063baca.png)
+
 
 Script Processors 
 
