@@ -1,0 +1,14 @@
+.addItemContainer {
+  text-align: center;
+}
+
+input[type="text"] {
+  width: 60%;
+  height: 20px;
+  margin: 5px;
+}
+
+button {
+  height: 30px;
+  font-size: 13px;
+}
