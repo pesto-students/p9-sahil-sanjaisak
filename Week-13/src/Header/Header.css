@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  background: rgb(53, 53, 53);
+  color: rgb(255, 254, 254);
+  justify-content: space-around;
+  font-weight: 600;
+  align-items: center;
+}
+.nav-content {
+  width: 25%;
+}
+.link-text {
+  color: aliceblue;
+  text-decoration: none;
+}
+.link-text:hover {
+  color: #9fd1f7;
+}
